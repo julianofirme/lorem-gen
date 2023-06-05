@@ -1,0 +1,19 @@
+{
+  "name": "lorem-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "bin": {
+    "lorem": "src/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.31.4",
+    "vitest": "^0.31.4"
+  }
+}
