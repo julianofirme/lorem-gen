@@ -4,10 +4,10 @@ The Lorem Generator is a command-line tool built with Node.js that generates ran
 ## Installation
 To install the Lorem Generator, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/lorem-generator.git
-2. Navigate to the project directory: cd lorem-generator
-3. Install dependencies: npm install
-4. Install the tool globally: npm install -g
+1. Clone the repository: `git clone https://github.com/jfirme-sys/lorem-gen.git`
+2. Navigate to the project directory: `cd lorem-generator`
+3. Install dependencies: `npm install`
+4. Install the tool globally: `npm install -g`
 
 ## Usage
 Once installed, you can use the Lorem Generator via the command line with the lorem command.
